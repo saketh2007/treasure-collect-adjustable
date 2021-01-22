@@ -1,0 +1,1 @@
+# treasure-collect-adjustable
